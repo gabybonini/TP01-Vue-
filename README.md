@@ -2,7 +2,7 @@
 
         Este repositório contém exercícios que estão sob avaliação, referentes ao TP'S (1, 3)
         e Assessment de Frameworks Vue e React.
-- [x] [Teste Prático 1]
+- [x] [Teste Prático 1](https://github.com/gabybonini/TP01-Vue-/tree/main/src)
 
 - [ ] Teste Prático 3
 
@@ -18,7 +18,6 @@ Implemente um elemento de interface para a tarefa que possuir a variável estaCo
 
 ![img-min.png](img-min.png)
 
-### Resolução: [Questão 10]
 ### Aluna: Gabriellaine Araujo Bonini - Noite - 22.3T
 
 ******
