@@ -4,7 +4,7 @@
         e Assessment de Frameworks Vue e React.
 - [x] [Teste Prático 1](https://github.com/gabybonini/TP01-Vue-/tree/main/src)
 
-- [ ] Teste Prático 3
+- [x] [Teste Prático 3](https://github.com/gabybonini/TP03-Vue/tree/main/src)
 
 - [ ] Assessment
 ## Questão 10 - TP1
